@@ -1,0 +1,31 @@
+.shop_name {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+        
+}
+.shop-name {
+    color: pink;
+}
+body {
+    background: purple;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+.h1_roses {
+    text-align: center;
+}
+.div_roses {
+    margin-right: 467px;
+}
+.price {
+    text-align: center;
+}
+.div_romashkas {
+    font-size: 50px
+}
+a {
+    text-decoration: none;
+    color: black
+}
